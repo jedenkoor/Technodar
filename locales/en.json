@@ -1,0 +1,112 @@
+{
+  "site": "Teсhnodar",
+  "meta": {
+    "title": "Teсhnodar title",
+    "description": "Teсhnodar description",
+    "keywords": "Teсhnodar keywords"
+  },
+  "overlay": "Close",
+  "form": {
+    "title": "Sign up for a demo of the system online",
+    "text": "The demonstration takes place on a real monitoring object",
+    "btn": "Send",
+    "fields": {
+      "name": "Name",
+      "phone": "Phone",
+      "email": "E-mail",
+      "agreeTerms": "Privacy policy"
+    }
+  },
+  "index": {
+    "promo": {
+      "title": "We design, manufacture and install efficient fuel control systems at facilities of any complexity",
+      "text": [
+        "All our equipment complies with industry requirements and specifications. We are also ready to undertake the coordination of systems with regulatory authorities"
+      ],
+      "btn": "About company"
+    },
+    "clients": {
+      "title": "Company clients",
+      "btn": "Results of cooperation"
+    },
+    "partners": "Our partners",
+    "mentions": "Media mentions"
+  },
+  "production": {
+    "promo": {
+      "title": "At Technodar Group of Companies, we produce modern and reliable equipment using innovative technologies",
+      "text": [
+        "We understand that fuel level control is a complex task that requires taking into account a huge number of factors.",
+        "The equipment produced by Technodar Group of Companies helps to cope with these difficulties and makes the operation process safer and more efficient."
+      ]
+    },
+    "sensors": {
+      "slider-btn": "About the sensor",
+      "tiles": [
+        "Capacitive fuel level sensors (FLS)",
+        "Ultrasonic (US) fuel level sensors",
+        "Radar sensors"
+      ]
+    },
+    "separators": {
+      "slider-btn": "About the deaerator",
+      "features": {
+        "title": "Deaerator Sekee",
+        "items": [
+          {
+            "title": "Deaerator",
+            "text": "A technical device that implements the process of separation (separation) of gases from fuel, i.e. its purification from the present dissolved gas impurities"
+          },
+          {
+            "title": "Principle of operation",
+            "text": "Principle of operation: in a float-type deaerator, the process of separation (separation) of liquid fuel from gases takes place, and the separated air is removed from the deaerator chamber through an air valve"
+          }
+        ]
+      }
+    },
+    "flowmeters": {
+      "slider-btn": "About the flowmeter",
+      "info": "Sekee FM, DFM meters are used to measure the volume and volume flow of diesel fuel, gasoline, liquefied gas, kerosene, oil, oil with water, fuel oil and other liquids with dynamic viscosity from 1 to 1000 mPa*s",
+      "tabs": {
+        "link": "Sekee flowmeters",
+        "btn": [
+          "Volumetric",
+          "Mass"
+        ],
+        "text": [
+          "A device for measuring the volume of liquid that flows through a cross section of a stream per unit of time",
+          "Mass"
+        ],
+        "items0": [
+          "Automatic mode for correcting fuel consumption with a difference in flow on the supply and return lines",
+          "Independent of the viscosity of the medium being measured and the power supply",
+          "Insensitive to flow profile",
+          "Ambient temperature: from -55 °С to +85 °С"
+        ],
+        "items1": [
+          "Automatic mode for correcting fuel consumption with a difference in flow on the supply and return lines",
+          "Independent of the viscosity of the medium being measured and the power supply",
+          "Insensitive to flow profile"
+        ]
+      }
+    },
+    "controllers": {
+      "slider-btn": "About the controller",
+      "tiles": [
+        "Protection class IP67",
+        "Temperature regime -50С..+75С",
+        "OLED display",
+        "Output signal via RS-485"
+      ]
+    },
+    "engineering": {
+      "promo": {
+        "title": "Project development",
+        "text": [
+          "After agreeing on technical specifications and discussing requirements, design engineers develop an individual project for the selected facility",
+          "In order for the project to be maximally optimized for the selected mode of transport, specialists also conduct a pre-project survey"
+        ]
+      }
+    }
+  }
+}
